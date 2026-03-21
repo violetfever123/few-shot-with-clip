@@ -4,4 +4,5 @@
 
 ## These are the names of contributors
 - Shirui Cao
+- Linxi 
 - Add your name!
