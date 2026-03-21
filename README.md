@@ -5,5 +5,5 @@
 ## These are the names of contributors
 - Shirui Cao
 - Linxi
-- Guanyu Hui
+- (Handsome) Guanyu Hui
 - Add your name!
