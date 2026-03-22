@@ -1,0 +1,22 @@
+# CLIP Demo 依赖包 / CLIP Demo Dependencies
+
+# PyTorch and dependencies
+torch>=1.7.1
+torchvision>=0.8.1
+
+# CLIP
+ftfy>=6.0.3
+regex>=2019.12.20
+tqdm>=4.41.0
+
+# Image processing
+Pillow>=7.1.2
+
+# Visualization
+matplotlib>=3.3.0
+
+# Image utilities
+scikit-image>=0.18.0
+
+# Optional: For faster tokenizer
+# tokenizers>=0.9.4
